@@ -1,4 +1,7 @@
-package Homework02.model;
+package Homework02;
+
+import Homework02.model.Category;
+import Homework02.model.Film;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,12 +18,12 @@ public class FilmApp {
 
     public static void main(String[] args) {
 
-      /*
-        Deneme yaparken kullanmak için bazı kategori verileri:
+
+     //   Deneme yaparken kullanmak için bazı kategori verileri:
         categoryList.add("Korku");
         categoryList.add("Komedi");
         categoryList.add("Dram");
-       */
+
 
         //Giriş ekranı gösteriliyor
 
